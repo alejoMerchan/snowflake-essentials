@@ -1,0 +1,11 @@
+CREATE DATABASE OUR_FIRST_DATABASE1;
+
+CREATE TABLE OUR_FIRST_TABLE(
+    first_name STRING,
+    last_name STRING,
+    address STRING,
+    city STRING,
+    state STRING
+);
+
+SELECT * FROM OUR_FIRST_TABLE;
